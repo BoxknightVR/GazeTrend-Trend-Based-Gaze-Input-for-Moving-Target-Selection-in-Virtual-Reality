@@ -7,4 +7,9 @@ The demonstration video is available at the following link: [here](https://www.y
 - Unity version: 2021.3.28f1c1
 - PICO Unity Integration SDK version: 3.0.0 (https://developer-cn.picoxr.com/resources/?platform=unity)
 
-At present, our work has not yet been accepted. After it is published, we will upload the project-related materials.
+Since our work has not yet been accepted, we currently only provide the code and settings for the Dwell and EyeShadow techniques as implemented in GazeTrend.
+
+The EyeShadow implementation is based on the following work:
+[EyeShadows: Peripheral Virtual Copies for Rapid Gaze Selection and Interaction](https://doi.org/10.1109/VR58804.2024.00088)
+
+After our work is published, we will release the remaining project materials related to GazeTrend.
